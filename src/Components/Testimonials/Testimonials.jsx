@@ -40,7 +40,7 @@ const Testimonials = () => {
                 </div>
               </div>
               <p>
-                My experience at [College Name] has been nothing short of
+                My experience at this has been nothing short of
                 amazing. The faculty here are incredibly supportive, always
                 encouraging us to think critically and explore new ideas. The
                 diverse range of extracurricular activities has allowed me to
@@ -61,7 +61,7 @@ const Testimonials = () => {
                 </div>
               </div>
               <p>
-                My experience at [College Name] has been nothing short of
+                My experience at this has been nothing short of
                 amazing. The faculty here are incredibly supportive, always
                 encouraging us to think critically and explore new ideas. The
                 diverse range of extracurricular activities has allowed me to
@@ -82,7 +82,7 @@ const Testimonials = () => {
                 </div>
               </div>
               <p>
-                My experience at [College Name] has been nothing short of
+                My experience at this has been nothing short of
                 amazing. The faculty here are incredibly supportive, always
                 encouraging us to think critically and explore new ideas. The
                 diverse range of extracurricular activities has allowed me to
@@ -103,7 +103,7 @@ const Testimonials = () => {
                 </div>
               </div>
               <p>
-                My experience at [College Name] has been nothing short of
+                My experience at this has been nothing short of
                 amazing. The faculty here are incredibly supportive, always
                 encouraging us to think critically and explore new ideas. The
                 diverse range of extracurricular activities has allowed me to
