@@ -16,10 +16,6 @@ const Home = () => {
             Explore More <FaLongArrowAltRight className="arrow" />
           </span>{" "}
         </button>
-
-        <button className="btn">
-          Explore More <FaLongArrowAltRight className="arrow" />
-        </button>
       </div>
     </div>
   );

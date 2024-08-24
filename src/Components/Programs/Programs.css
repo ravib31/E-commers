@@ -44,3 +44,12 @@
     margin-bottom: 10px;
 
 }
+@media(max-width:650px){
+    .programs{
+         flex-direction: column;
+    }
+    .program{
+        flex-direction: 100%;
+        margin: 20px;
+    }
+}

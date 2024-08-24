@@ -9,7 +9,7 @@ import { FaPenClip } from "react-icons/fa6";
 
 const Programs = () => {
   return (
-    <div className="programs">
+    <div className="programs" >
       <div className="program">
         <img src={program2} alt="" />
         <div className="caption">
